@@ -1,8 +1,14 @@
 body {
-    background-color: #eeeeee;
-    text-align:center ;
+    background-color: #ffffff;
+    text-align:center;
 }
 
 ul {
     text-align: center;
+}
+nav {
+    flex: content;
+}
+li { 
+    list-style-type: none;
 }
